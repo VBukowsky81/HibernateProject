@@ -13,6 +13,8 @@ I have typed way too much. I just love this stuff and could talk for hours.
 
 In short, Java has a neat system to deal with databases. Other languages probably do the same thing. I know C# has exact copy of this system.
 
+Great info on Entity Manager: https://docs.jboss.org/hibernate/entitymanager/3.6/reference/en/html_single/#d0e1030
+
 Farewell!
 
 
