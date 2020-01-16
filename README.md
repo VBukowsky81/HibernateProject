@@ -3,7 +3,7 @@ Basic Java+JPA/Hibernate+SQL integration.
 
 Hello everyone!
 
-Quick project to demonstrate how Java works with SQL databases. It is a HUGE deal in programming, because almost all data persistance is done through external SQL databases. You can't store permament data in Java, we're operating random memory. (Well, yes, you can story it directly to files, or anything else, but 99% simply use SQL)
+Quick project to demonstrate how Java works with SQL databases. It is a HUGE deal in programming, because almost all data persistance is done through external SQL databases. Mostly, we are talking about databases - customers, clients, employees, sales, inventory, etc.
 
 So to store data, we use additional tools. SQL/noSQL databases are the standard for this. Java connects to SQL databases through JDBC driver framework, using simple SQL text commands relayed to the SQL database. Hibernate works on top of JDBC, by providing us very effective way to map classes and variables to fields and columns in SQL tables, among other things.
 
