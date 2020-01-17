@@ -3,7 +3,7 @@ Basic Java+JPA/Hibernate+SQL integration.
 
 Hello everyone!
 
-Quick project to demonstrate how Java works with SQL databases. It is a HUGE deal in programming, because almost all data persistance is done through external SQL databases.
+Quick project to demonstrate how Java works with SQL databases. It is a HUGE deal in programming, because almost all data persistance in Java is done through external SQL databases.
 
 Java connects to SQL databases through JDBC driver framework, using simple SQL text commands relayed to the SQL database. Hibernate works on top of JDBC, by providing us with a very effective way to map classes and variables to rows and columns in SQL tables, among other things.
 
